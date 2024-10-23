@@ -1,0 +1,12 @@
+{
+    "identificacion": "1010",
+    "nombre": "Jeronimo",
+    "cargo": "gerente",
+    "salarioBase": 5000000.0,
+    "auxilioTransporte": 0,
+    "descuentoSalud": 200000.0,
+    "descuentoPension": 200000.0,
+    "descuentoInasistencias": 166666.66666666666,
+    "totalBonos": 50000.0,
+    "totalPagar": 4483333.333333333
+}
